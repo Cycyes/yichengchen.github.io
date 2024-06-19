@@ -8,15 +8,3 @@ redirect_from:
 ---
 
 I am Yicheng Chen (陈奕澄) and I am a senior undergraduate student at [Tongji University](https://www.tongji.edu.cn/).
-
-
-News
-======
-
-
-Publications
-======
-
-**Selected Publications**
-
-1. Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language
